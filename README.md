@@ -2,12 +2,6 @@
 
 This repository contains code that performs customer segmentation analysis based on the Recency-Frequency-Monetary (RFM) model using the `readxl`, `ggplot2`, and `dplyr` libraries in R.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Data](#data)
-- [RFM Analysis](#rfm-analysis)
-- [Customer Segmentation](#customer-segmentation)
-
 ## Introduction
 Customer segmentation is a powerful technique used in marketing and business analysis to categorize customers into groups based on their behaviors and characteristics. The RFM model is a commonly used approach for customer segmentation, which considers three key metrics: Recency, Frequency, and Monetary value.
 
